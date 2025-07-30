@@ -70,7 +70,7 @@ See [`Create-AzureADUsers.ps1`](./Create-AzureADUsers.ps1)
 | Task                                | Screenshot Example                  |
 |-------------------------------------|-------------------------------------|
 | Microsoft Entra ID dashboard        | ![Dashboard](DASHBOAERD.png) |
-| All users list                      | ![Users](ALLUSERS.png) |
+| All users list                      | ![Users](ALL_USERS.png) |
 | Group membership                    | ![Groups](ALLGROUPS.png) |
 | Role assignment                     | ![Roles]( AssignDirectoryRoles2.png) |
 | Password reset confirmation         | ![Reset](RESETPASSOWRD.png) |
