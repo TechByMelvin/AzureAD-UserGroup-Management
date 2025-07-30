@@ -47,7 +47,7 @@ Users were assigned to their respective groups based on department roles.
 
 ## ✅ Tasks Completed
 
-- [x] Created 10 user accounts
+- [x] Created 12 user accounts
 - [x] Created and managed security groups
 - [x] Assigned users to groups
 - [x] Assigned directory roles to simulate real IT scenarios
