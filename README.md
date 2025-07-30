@@ -71,10 +71,10 @@ See [`Create-AzureADUsers.ps1`](./Create-AzureADUsers.ps1)
 |-------------------------------------|-------------------------------------|
 | Microsoft Entra ID dashboard        | ![Dashboard](DASHBOAERD.png) |
 | All users list                      | ![Users](ALL_USERS.png) |
-| Group membership                    | ![Groups](ALLGROUPS.png) |
-| Role assignment                     | ![Roles]( AssignDirectoryRoles2.png) |
-| Password reset confirmation         | ![Reset](RESETPASSOWRD.png) |
-| Audit logs                          | ![Audit](AUDITLOGS.png) |
+| Group membership                    | ![Groups](ALL_GROUPS.png) |
+| Role assignment                     | ![Roles](Assign_Directory_Roles.png) |
+| Password reset confirmation         | ![Reset](RESET_PASSWORD.png) |
+| Audit logs                          | ![Audit](AUDIT_LOGS.png) |
 
 ---
 
