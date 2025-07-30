@@ -70,18 +70,11 @@ See [`Create-AzureADUsers.ps1`](./Create-AzureADUsers.ps1)
 | Task                                | Screenshot Example                  |
 |-------------------------------------|-------------------------------------|
 | Microsoft Entra ID dashboard        | ![Dashboard](DASHBOAERD.png) |
-| All users list                      | ![Users](screenshots/users-list.png) |
-| Group membership                    | ![Groups](screenshots/group-membership.png) |
-| Role assignment                     | ![Roles](screenshots/assigned-roles.png) |
-| Password reset confirmation         | ![Reset](screenshots/password-reset.png) |
-| Audit logs                          | ![Audit](screenshots/audit-logs.png) |
-
----
-
-## 🎥 Loom Walkthrough
-
-> 📹 **Video Walkthrough**: [Watch on Loom](https://loom.com/share/your-video-link-here)  
-*(Explains key tasks and how this project demonstrates IT help desk capabilities)*
+| All users list                      | ![Users](ALL USERS.png) |
+| Group membership                    | ![Groups](ALL GROUPS.png) |
+| Role assignment                     | ![Roles]( Assign Directory Roles2.png) |
+| Password reset confirmation         | ![Reset](RESET PASSOWRD.png) |
+| Audit logs                          | ![Audit](AUDIT LOGS.png) |
 
 ---
 
