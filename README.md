@@ -69,7 +69,7 @@ See [`Create-AzureADUsers.ps1`](./Create-AzureADUsers.ps1)
 
 | Task                                | Screenshot Example                  |
 |-------------------------------------|-------------------------------------|
-| Microsoft Entra ID dashboard        | ![Dashboard]() |
+| Microsoft Entra ID dashboard        | ![Dashboard](DASHBOAERD.png) |
 | All users list                      | ![Users](screenshots/users-list.png) |
 | Group membership                    | ![Groups](screenshots/group-membership.png) |
 | Role assignment                     | ![Roles](screenshots/assigned-roles.png) |
